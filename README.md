@@ -2,7 +2,7 @@
 
 **Explore how ideas evolve.** A local-first research application for reading and revising papers, inspecting their arguments, comparing perspectives, documenting feedback, and reflecting on knowledge construction.
 
-The four original PDFs in this directory have been imported into the local workspace. Their contents are never fabricated. DOCX source files are retained but are not needed by the application.
+The four original PDFs in this directory have been imported into the local workspace. Their contents are never fabricated. Any DOCX originals remain in the local project folder; they are not required by the application or included in the GitHub upload.
 
 ## Run locally
 
