@@ -4,11 +4,15 @@
 
 The four original PDFs in this directory have been imported into the local workspace. Their contents are never fabricated. Any DOCX originals remain in the local project folder; they are not required by the application or included in the GitHub upload.
 
-## Live demo
+## Live website
 
-**[Open the public showcase and interactive demo →](https://corridor-of-thought.yvettewu2017.chatgpt.site)**
+**[Open the full working website →](https://corridor-of-thought.yvettewu2017.chatgpt.site)**
 
-Try argument inspection, revision comparison, and reflection with illustrative sample content. No installation or sign-in is required. The full research workspace runs locally using the instructions below.
+Read all four original papers, import PDFs, edit working copies, explore 2D/3D argument graphs, compare perspectives, and save feedback and reflections. No installation or sign-in is required.
+
+Your changes and imported PDFs are saved in your own browser. Use **Backup / Restore** to keep a separate copy or move between devices; clearing site storage removes local work. The four original papers are publicly available with the owner’s permission. Optional AI suggestions require the local app with a server-side API key.
+
+The desktop/local version can also be run using the instructions below.
 
 ## Run locally
 
