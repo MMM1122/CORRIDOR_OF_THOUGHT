@@ -4,6 +4,12 @@
 
 The four original PDFs in this directory have been imported into the local workspace. Their contents are never fabricated. Any DOCX originals remain in the local project folder; they are not required by the application or included in the GitHub upload.
 
+## Live demo
+
+**[Open the public showcase and interactive demo →](https://corridor-of-thought.yvettewu2017.chatgpt.site)**
+
+Try argument inspection, revision comparison, and reflection with illustrative sample content. No installation or sign-in is required. The full research workspace runs locally using the instructions below.
+
 ## Run locally
 
 Requires **Node.js 22.13 or newer** and npm. Node 22.21 was used for verification. Node's built-in SQLite module may print an experimental-feature warning on Node 22; no separate database service is required.
