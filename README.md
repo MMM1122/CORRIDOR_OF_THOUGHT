@@ -6,7 +6,7 @@ The four original PDFs in this directory have been imported into the local works
 
 ## Live website
 
-**[Open the full working website →](https://corridor-of-thought.yvettewu2017.chatgpt.site)**
+**[Open the full working website →](https://corridor-of-thought.fun)**
 
 Read all four original papers, import PDFs, edit working copies, explore 2D/3D argument graphs, compare perspectives, and save feedback and reflections. No installation or sign-in is required.
 
